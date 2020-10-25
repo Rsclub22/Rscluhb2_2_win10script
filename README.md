@@ -5,7 +5,7 @@ This is the Ultimate Windows 10 Script from a creation from multiple debloat scr
 
 # One Comand Install(make sure tu run wwith admin & powershell):
 
-powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/Rsclub22/win10script/master/win10debloat.ps1')"
+powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/Rsclub22/Rscluhb2_2_win10script/main/win10debloat.ps1')"
 
 #Manual Install(make sure tu run wwith admin & powershell):
 
